@@ -271,11 +271,7 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 ## 📞 Support
 
 For any queries or support, please reach out via:
-- **Email**: nitesh@gmail.com
+- **Email**: niteshhx@gmail.com
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/nitesh-kumar-4927bb2b9/)
 
 **⭐ If you like this project, please give it a star!**
-=======
-# event-management-web-app
-: Modern Event Management System with Node.js, Express, MongoDB
->>>>>>> ed0749345aa57d809976674d796f66f308d60bc7
