@@ -257,7 +257,7 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 **Created and Enhanced by Nitesh Kumar**
 
 - **LinkedIn**: [nitesh-kumar-4927bb2b9](https://www.linkedin.com/in/nitesh-kumar-4927bb2b9/)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **GitHub**: [nitesh680](https://github.com/nitesh680)
 
 ## 🙏 Acknowledgments
 
