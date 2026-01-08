@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Event Management Web App
 
 A modern, feature-rich event management system built with Node.js, Express, and MongoDB. This application provides comprehensive event management capabilities with user authentication, admin controls, and a beautiful responsive UI.
@@ -274,3 +275,7 @@ For any queries or support, please reach out via:
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/nitesh-kumar-4927bb2b9/)
 
 **⭐ If you like this project, please give it a star!**
+=======
+# event-management-web-app
+: Modern Event Management System with Node.js, Express, MongoDB
+>>>>>>> ed0749345aa57d809976674d796f66f308d60bc7
