@@ -259,13 +259,6 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 - **LinkedIn**: [nitesh-kumar-4927bb2b9](https://www.linkedin.com/in/nitesh-kumar-4927bb2b9/)
 - **GitHub**: [nitesh680](https://github.com/nitesh680)
 
-## 🙏 Acknowledgments
-
-- Original framework by Varadarajan M
-- Enhanced with modern UI/UX improvements
-- Built with Node.js and Express ecosystem
-- Styled with modern CSS techniques
-
 ---
 
 ## 📞 Support
